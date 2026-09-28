@@ -1,0 +1,8 @@
+[
+    {
+        "id": "P001",
+        "nombre": "Hamburguesa Clásica",
+        "precio": 5.50,
+        "categoria": "Comida"
+    }
+]
